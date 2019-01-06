@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "817647264163",
+    "firebase_url": "https://fir-fund-fd815.firebaseio.com",
+    "project_id": "fir-fund-fd815",
+    "storage_bucket": "fir-fund-fd815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817647264163:android:c85e54fe368ef8c5",
+        "android_client_info": {
+          "package_name": "com.pasindusiriwardana.firebase_fund"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817647264163-9uul263e378sr553dk8l68nrv3i94595.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pasindusiriwardana.firebase_fund",
+            "certificate_hash": "5175cdfcf4c0cdc0e1b39a7d59ab098561b24718"
+          }
+        },
+        {
+          "client_id": "817647264163-0e9rj39dihtssom1pkk4ss8rpbgtkvp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGYIGf4sto3-c7hnB0X47iRtjml2SwyFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817647264163-0e9rj39dihtssom1pkk4ss8rpbgtkvp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
